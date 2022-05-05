@@ -10,6 +10,7 @@
  ## Program:
  
  ## Output:
- ![Screenshot (15)](https://user-images.githubusercontent.com/75237886/166908526-0473a9e7-cf1e-4c20-a3a5-3432bfdf9304.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/75237886/166908643-29ebaa5b-23fa-4577-ac7c-04fe5e423c30.png)
 
  ## Result:
