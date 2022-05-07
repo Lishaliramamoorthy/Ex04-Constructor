@@ -19,7 +19,7 @@ stop
  ## Program:
   ```c#
  using System;
-namespace Ragav
+namespace Lishaa
 {
     public class exp4
     {
