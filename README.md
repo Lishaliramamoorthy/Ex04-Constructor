@@ -81,5 +81,7 @@ namespace Ragav
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/75237886/166908643-29ebaa5b-23fa-4577-ac7c-04fe5e423c30.png)
 
+ ![image](https://user-images.githubusercontent.com/75235488/166908617-03fdb99d-3bb3-4ec9-8ecb-dc40ab2c904a.png)
+
  ## Result:
  Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
